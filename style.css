@@ -4,6 +4,10 @@ body {
   overflow: hidden;
   text-align: center;
 }
-#myCanvas {
+#marCanvas {
   background: lightgray;
 }
+
+#networkCanvas {
+    background: black;
+  }
